@@ -17,28 +17,22 @@ let isRepeat = false;
 const musics =[
   {
     id: 1,
-    title: "Out Out",
-    file: "outout.mp3",
-    image: "https://c4.wallpaperflare.com/wallpaper/545/756/905/anime-anime-girls-mask-simple-background-hd-wallpaper-thumb.jpg"
+    title: "Happy Birthday",
+    file: "happyBirthday.mp3",
+    image: "img/Nhu1.jpg"
 },
       {
           id: 2,
-          title: "Nhà Bạn Giàu",
-          file: "nhabangiau.mp3",
-          image: "https://images.unsplash.com/photo-1495430288918-03be19c7c485?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+          title: "Tự Sự",
+          file: "TuSu.mp3",
+          image: "img/Nhu2.jpg"
       },
       {
         id: 3,
-        title: "The Night",
-        file: "thenight.mp3",
-        image: "https://images.unsplash.com/photo-1532767153582-b1a0e5145009?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
-    },
-    {
-      id: 4,
-      title: "Move Your..",
-      file: "moveyour.mp3",
-      image: "https://c4.wallpaperflare.com/wallpaper/663/420/862/car-purple-retrowave-landscape-wallpaper-thumb.jpg"
-  }
+        title: "2AM",
+        file: "2AM.mp3",
+        image: "img/Nhu3.png"
+    }
 
 ]
 let timer;

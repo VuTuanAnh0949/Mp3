@@ -38,7 +38,15 @@ html {
     background-image: linear-gradient( 174.2deg,  rgba(255,244,228,1) 7.1%, rgba(240,246,238,1) 67.4% );
    background-size: cover;
   }
-
+ .title{
+  color:#647E68;
+  display: inline;
+  text-align: center;;
+  font-weight: bold;
+ }
+ #especially{
+  text-decoration: underline;
+ }
   .music {
     max-width: 500px;
     margin: 100px auto;
